@@ -1,0 +1,6 @@
+{
+  "name": "HydroTrack",
+  "description": "Application de suivi d'hydratation quotidienne avec cercle de progression pour objectif de 2L, ajout rapide 250ml et thème sombre turquoise Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

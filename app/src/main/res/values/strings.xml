@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HydroTrack</string>
+    <string name="daily_goal_title">Objectif Quotidien</string>
+    <string name="target_2l">2.0 L</string>
+    <string name="add_250ml">+ 250 ml</string>
+    <string name="reset_btn">Réinitialiser</string>
+</resources>
